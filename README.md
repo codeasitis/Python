@@ -8,3 +8,4 @@ In This project, we will be uploading all the practise examples. Please keep wat
    File Name (AccessList.py)
 5.Python List As Stack & Queue - How to conver List to Stack , Queue . How to convert Tupe to List. Done - File No - ListAsStack.py, ListAsQueue.py
 6.Python Dictionary - how to create dictionary, how to access dictionary, different dictionary functions (copy, get, keys, items, values ,len) - DictionaryExample.py
+7.Python Conditional statment - how to use if ElIf Else, Nested If, If in single line in Python - Done - ConditionalStatement.py
