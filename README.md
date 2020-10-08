@@ -10,3 +10,8 @@ In This project, we will be uploading all the practise examples. Please keep wat
 6.Python Dictionary - how to create dictionary, how to access dictionary, different dictionary functions (copy, get, keys, items, values ,len) - DictionaryExample.py
 7.Python Conditional statment - how to use if ElIf Else, Nested If, If in single line in Python - Done - ConditionalStatement.py
 8. Python Operator - what is python operator, how to use python opertors, arithmetic , assignment, conditional, logical, identity, membership and bitwise operator - Done - OperatorExample.py
+9. Python Function - what is python function. how to declare function, how to use function in python. - done FunctionExample.py
+10. Lambda Express/Anonymous Function - what is lambda expression or anonymous function. how to use it. what is its usage. Done - LambdaExample.py
+11. Python Recursive Function - what is recursion, when we use recursion, how to create recursive function. fibonacci sequence and factorial using recursive function - Done . RecursionExample.py
+12. Python Modules - what is module, why we need modules , how to import module in different way, how to use from in import- Done - mathfunction.py - module declared here , moduleExample.py - consuming module
+13. Python Exception Handling - what is exception, how to handle exception, how to use try except else and finally block - Done - ExceptionHandlingExample.py
