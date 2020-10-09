@@ -1,0 +1,27 @@
+1. Text based file -
+    - returns string
+Binary File - audio, video or image
+    - return byte
+
+open('filename','m')
+text based mode - t
+binary mode - b
+
+open(filename) - reading 
+r - reading file
+open(filename,r+b)
+Read()- return whole file text
+ReadLine()- first ReadLine
+Read(10)- 10 character from file
+ReadLines()
+
+w - used for writint
+    - it will create new file, if file doesnot exist
+    - it will truncate file if file exist
+write()- for writing content in file
+writeline()
+x- used for creating 
+ - throw error , if file exist4
+
+a - used for appending 
+    - if file does not exist, it will create new file
