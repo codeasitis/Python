@@ -15,3 +15,4 @@ In This project, we will be uploading all the practise examples. Please keep wat
 11. Python Recursive Function - what is recursion, when we use recursion, how to create recursive function. fibonacci sequence and factorial using recursive function - Done . RecursionExample.py
 12. Python Modules - what is module, why we need modules , how to import module in different way, how to use from in import- Done - mathfunction.py - module declared here , moduleExample.py - consuming module
 13. Python Exception Handling - what is exception, how to handle exception, how to use try except else and finally block - Done - ExceptionHandlingExample.py
+14. Python File Handling - how to create file, how to read file, how to write in file, how to append in file - Done - FileHandlerDemo.py, NOtes.txt,newNotes.txt,BinaryFileHandling.py, Logo.png
