@@ -16,3 +16,4 @@ In This project, we will be uploading all the practise examples. Please keep wat
 12. Python Modules - what is module, why we need modules , how to import module in different way, how to use from in import- Done - mathfunction.py - module declared here , moduleExample.py - consuming module
 13. Python Exception Handling - what is exception, how to handle exception, how to use try except else and finally block - Done - ExceptionHandlingExample.py
 14. Python File Handling - how to create file, how to read file, how to write in file, how to append in file - Done - FileHandlerDemo.py, NOtes.txt,newNotes.txt,BinaryFileHandling.py, Logo.png
+15. pythonsqlserver.py - It contains details about connecting to ms sql server using pyodbc driver. Also it has detailed description about performing CRUD operation on sql server database i.e insert, update , delete and select records from microsoft sql server from python using pyodbc driver. pyodbc driver is open source driver .
